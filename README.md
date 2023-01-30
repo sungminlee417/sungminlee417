@@ -6,18 +6,15 @@ Prior to coding, I have an extensive background in the performance arts. I major
 
 I have experience coding up projects in Javascript and Python. I have used frameworks and other technologies such as React/Redux, Express, Flask, Sequelize, and SQLAlchemy for these projects.
 
-## Technologies
-
 ## Projects
-
 ### Cloneagram
 https://clone-agram.herokuapp.com/
-
 ### Harmonious Voices
 https://harmonious-voices.herokuapp.com/
-
 ### Groundbnb
 https://bnb-ground.herokuapp.com/
+
+## Technologies
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
