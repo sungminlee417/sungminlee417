@@ -15,7 +15,6 @@ https://harmonious-voices.herokuapp.com/
 https://bnb-ground.herokuapp.com/
 
 ## Technologies
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
@@ -27,9 +26,13 @@ https://bnb-ground.herokuapp.com/
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 
 ## About Me
-
 - 🔭 I’m currently looking for a new job as a software engineer.
 - 🌱 I’m learning to put myself out there for the job search.
 - 👯 I’m looking to collaborate on more fullstack projects.
 - 📫 How to reach me: sungminlee417@gmail.com
 - 😄 Pronouns: He/him
+
+## Reach me at:
+LinkedIn: https://www.linkedin.com/in/sungmin-lee-288801214/
+Wellfound: https://angel.co/u/sungmin-lee-7
+Personal Site: https://sungminlee.com/
