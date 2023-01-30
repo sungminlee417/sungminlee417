@@ -33,6 +33,6 @@ https://bnb-ground.herokuapp.com/
 - 😄 Pronouns: He/him
 
 ## Reach me at:
-LinkedIn: https://www.linkedin.com/in/sungmin-lee-288801214/
-Wellfound: https://angel.co/u/sungmin-lee-7
-Personal Site: https://sungminlee.com/
+- LinkedIn: https://www.linkedin.com/in/sungmin-lee-288801214/
+- Wellfound: https://angel.co/u/sungmin-lee-7
+- Personal Site: https://sungminlee.com/
