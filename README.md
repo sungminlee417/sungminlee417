@@ -26,6 +26,8 @@ https://bnb-ground.herokuapp.com/
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 
+## About Me
+
 - 🔭 I’m currently looking for a new job as a software engineer.
 - 🌱 I’m learning to put myself out there for the job search.
 - 👯 I’m looking to collaborate on more fullstack projects.
