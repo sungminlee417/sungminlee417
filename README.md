@@ -13,6 +13,8 @@ https://clone-agram.herokuapp.com/
 https://harmonious-voices.herokuapp.com/
 ### Groundbnb
 https://bnb-ground.herokuapp.com/
+### The Muse Duo
+https://themuseduo.com/
 
 ## Technologies
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
